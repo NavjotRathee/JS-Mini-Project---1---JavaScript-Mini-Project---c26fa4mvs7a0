@@ -1,19 +1,19 @@
 const quizDB = [
     {
-        question: "Q: What is the full form of HTML?",
-        a: "Hello To My Language",
-        b: "Hey Text Markup Language",
-        c: "HyperText Markup Language",
-        d: "Hypertext Markup Language",
-        ans: "ans4"
+        question: "Q: Which of the following is not related to OOPS??",
+        a: "Structure and Union",
+        b: "Class and Object",
+        c: "Constructor and Destructor",
+        d: "Inheritance and Polymorphism",
+        ans: "ans3"
     },
     {
-        question: "Q:Which of the following tag is used for inserting the largest heading in HTML?",
-        a: "head",
-        b: "<h1>",
-        c: "<h6>",
-        d: "heading",
-        ans: "ans2"
+        question: "Q:Which access specifier is usually used for data members of a class?",
+        a: "Private",
+        b: "Default",
+        c: "Protected",
+        d: "Public",
+        ans: "ans1"
     },
     {
         question: "Q:What is DOM in HTML?",
