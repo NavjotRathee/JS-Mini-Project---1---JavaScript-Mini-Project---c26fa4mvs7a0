@@ -31,21 +31,13 @@ const quizDB = [
         d: "body tag",
         ans: "ans1"
     },
-    {
-        question: "Q:Which element is used to get highlighted text in HTML5?",
-        a: "<u>",
-        b: "<mark>",
-        c: "<highlight>",
-        d: " <b>",
-        ans: "ans2"
-    },
+    
     {
         question: "Q:An ordered list is a ...................... list and an unordered list is a ................. list.",
         a: "bulleted & numbered",
         b: "bulleted & tabular",
         c: "tabular & numbered",
-        d: " numbered & bulleted
-",
+        d: " numbered & bulleted",
         ans: "ans4"
     },
 ];
