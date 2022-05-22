@@ -39,6 +39,15 @@ const quizDB = [
         d: " <b>",
         ans: "ans2"
     },
+    {
+        question: "Q:An ordered list is a ...................... list and an unordered list is a ................. list.",
+        a: "bulleted & numbered",
+        b: "bulleted & tabular",
+        c: "tabular & numbered",
+        d: " numbered & bulleted
+",
+        ans: "ans4"
+    },
 ];
 const question = document.querySelector('.question');
 const option1 = document.querySelector('#option1');
