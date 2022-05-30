@@ -1,6 +1,6 @@
 const quizDB = [
     {
-        question: "Q: Which of the following is not related to OOPS??",
+        question: "Q: Which of the followingssssss is not related to OOPS??",
         a: "Structure and Union",
         b: "Class and Object",
         c: "Constructor and Destructor",
